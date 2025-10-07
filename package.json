@@ -37,7 +37,7 @@
     "@material-ui/icons": "3.x",
     "date-fns": "2.0.0-alpha.16",
     "material-ui-pickers": "^2.0.1",
-    "nwb": "0.23.x",
+    "nwb": "0.25.x",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "docz": "latest"
